@@ -14,7 +14,7 @@ pip install -e .
 
 ### Selfharm Detect Checkpoint
 
-File : configs/posec3d/slowonly_r50_selfharm/best.pth
+File : configs/posec3d/slowonly_r50_selfharm/best.pth<br/>
 Link : https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EblcEBmVyhpBp88RwcxGIoQBDVXdmfeyCU06Du7e79muCQ?e=jP0YVK
 
 ```
@@ -23,7 +23,7 @@ wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/Eblc
 
 ### Human Pose Estimation Checkpoint
 
-File : data/pretrain/human_pose_checkpoint.pth
+File : data/pretrain/human_pose_checkpoint.pth<br/>
 Link : https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EYDBvXKs4_JOogMYEgEgjmsBk3zL_n8KqQeCFbLFpIzveg?e=Qybvqg
 
 ```
@@ -32,7 +32,7 @@ wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EYDB
 
 ### Human Detect Estimation Checkpoint
 
-File : data/pretrain/human_detect_checkpoint.pth
+File : data/pretrain/human_detect_checkpoint.pth<br/>
 Link : https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EYZ6d-s6sDBAjS03amyczwQBJVS00dUayF5omzwYF7i-Nw?e=sgq0sz
 
 ```
