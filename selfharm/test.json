@@ -1,0 +1,1718 @@
+[
+	{
+		"vid_name": "normal30",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal795",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "normal545",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "normal381",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal235",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal824",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal645",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 177
+	},
+	{
+		"vid_name": "normal562",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal164",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_floor32",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 532
+	},
+	{
+		"vid_name": "biting147",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "biting76",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 566
+	},
+	{
+		"vid_name": "punching_floor110",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "hittinghead_floor28",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall41",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal724",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "punching_floor4",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_wall69",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal51",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal414",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal149",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal842",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 163
+	},
+	{
+		"vid_name": "punching_floor31",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "punching_wall113",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody129",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 503
+	},
+	{
+		"vid_name": "normal848",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "normal142",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody202",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 503
+	},
+	{
+		"vid_name": "scratching_neck66",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "punching_wall115",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal169",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "biting93",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "punching_floor9",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "kicking_wall7",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor33",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "choking_cloth136",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal566",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal219",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand134",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "normal2",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 174
+	},
+	{
+		"vid_name": "scratching_arm21",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 453
+	},
+	{
+		"vid_name": "scratching_neck80",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal529",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall93",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "punching_wall36",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody5",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 453
+	},
+	{
+		"vid_name": "scratching_arm199",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 519
+	},
+	{
+		"vid_name": "normal440",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "punching_floor118",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal168",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "hittingbody14",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 509
+	},
+	{
+		"vid_name": "normal340",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor46",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor74",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 526
+	},
+	{
+		"vid_name": "biting36",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "choking_hand112",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "hittinghead_wall105",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "scratching_arm33",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "biting35",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "choking_hand68",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 461
+	},
+	{
+		"vid_name": "scratching_arm177",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "scratching_arm8",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 453
+	},
+	{
+		"vid_name": "selfharm_tool24",
+		"label": 12,
+		"start_frame": 0,
+		"end_frame": 453
+	},
+	{
+		"vid_name": "normal181",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "normal520",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_neck30",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal726",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal784",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "kicking_wall19",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal617",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "normal434",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 262
+	},
+	{
+		"vid_name": "normal248",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "biting81",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 598
+	},
+	{
+		"vid_name": "normal432",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "hittingbody204",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "choking_hand73",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 504
+	},
+	{
+		"vid_name": "choking_cloth120",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 512
+	},
+	{
+		"vid_name": "hittinghead_wall130",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "punching_wall84",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 527
+	},
+	{
+		"vid_name": "normal532",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 260
+	},
+	{
+		"vid_name": "selfharm_tool27",
+		"label": 12,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "choking_cloth19",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 489
+	},
+	{
+		"vid_name": "choking_hand109",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "biting86",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "normal401",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_arm135",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 567
+	},
+	{
+		"vid_name": "normal822",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 250
+	},
+	{
+		"vid_name": "normal255",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal13",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "choking_cloth27",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 176
+	},
+	{
+		"vid_name": "hittinghead_floor43",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "hittinghead_wall33",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal395",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_cloth10",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_floor120",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "hittingbody171",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "scratching_arm106",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "choking_cloth169",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "normal247",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 247
+	},
+	{
+		"vid_name": "normal644",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "normal775",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody187",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 524
+	},
+	{
+		"vid_name": "biting33",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "hittinghead_floor41",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "hittinghead_floor53",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "choking_cloth65",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "biting141",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "choking_cloth157",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand10",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "hittinghead_floor131",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "normal212",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "punching_floor112",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_neck102",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 551
+	},
+	{
+		"vid_name": "normal391",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 202
+	},
+	{
+		"vid_name": "normal820",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal282",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "biting167",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal890",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "normal78",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal400",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_wall129",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal812",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "kicking_wall16",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal616",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand27",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "scratching_arm43",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 525
+	},
+	{
+		"vid_name": "punching_wall153",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall151",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "normal506",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "normal634",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_floor46",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "scratching_neck101",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 551
+	},
+	{
+		"vid_name": "normal619",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 258
+	},
+	{
+		"vid_name": "normal650",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_cloth166",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "choking_hand31",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "choking_hand41",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "normal849",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 250
+	},
+	{
+		"vid_name": "normal764",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "hittinghead_floor113",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "hittinghead_floor121",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "normal763",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal772",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody151",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal213",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittingbody41",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal250",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "punching_floor71",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 526
+	},
+	{
+		"vid_name": "scratching_neck20",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 504
+	},
+	{
+		"vid_name": "normal871",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 208
+	},
+	{
+		"vid_name": "normal483",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_neck28",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall156",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "hittingbody156",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "normal604",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor94",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 588
+	},
+	{
+		"vid_name": "choking_hand100",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal510",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 245
+	},
+	{
+		"vid_name": "biting66",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 598
+	},
+	{
+		"vid_name": "choking_hand44",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "punching_wall78",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 553
+	},
+	{
+		"vid_name": "normal685",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal307",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "biting25",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "choking_cloth168",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "punching_wall27",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall144",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 519
+	},
+	{
+		"vid_name": "punching_floor55",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "punching_wall120",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "hittingbody32",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 167
+	},
+	{
+		"vid_name": "kicking_wall17",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "choking_hand70",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 461
+	},
+	{
+		"vid_name": "normal130",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "scratching_neck83",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_arm61",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor85",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "normal788",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_floor126",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "normal273",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 146
+	},
+	{
+		"vid_name": "normal624",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand130",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal19",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "normal935",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 582
+	},
+	{
+		"vid_name": "hittinghead_wall133",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal3",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 241
+	},
+	{
+		"vid_name": "hittinghead_floor111",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "normal518",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 252
+	},
+	{
+		"vid_name": "biting49",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 476
+	},
+	{
+		"vid_name": "hittinghead_wall17",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal924",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "hittingbody91",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "normal853",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "scratching_arm16",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 449
+	},
+	{
+		"vid_name": "choking_cloth133",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "scratching_neck64",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "kicking_wall72",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "biting100",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "normal155",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand119",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 461
+	},
+	{
+		"vid_name": "normal25",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 162
+	},
+	{
+		"vid_name": "scratching_neck105",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "scratching_arm100",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 489
+	},
+	{
+		"vid_name": "biting34",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "choking_hand62",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 555
+	},
+	{
+		"vid_name": "punching_wall146",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 554
+	},
+	{
+		"vid_name": "normal765",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand99",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "normal736",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "scratching_arm92",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 530
+	},
+	{
+		"vid_name": "scratching_arm153",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "normal689",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall80",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 521
+	},
+	{
+		"vid_name": "normal430",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_wall95",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 584
+	},
+	{
+		"vid_name": "choking_hand20",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "hittinghead_floor71",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "punching_wall138",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal368",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_arm179",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "choking_hand59",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 555
+	},
+	{
+		"vid_name": "hittinghead_wall21",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 460
+	},
+	{
+		"vid_name": "hittingbody25",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 201
+	},
+	{
+		"vid_name": "normal654",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 170
+	},
+	{
+		"vid_name": "normal632",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_wall141",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 551
+	},
+	{
+		"vid_name": "normal810",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "normal421",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 256
+	},
+	{
+		"vid_name": "hittinghead_floor61",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "choking_cloth74",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 590
+	},
+	{
+		"vid_name": "scratching_arm20",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "hittinghead_wall92",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "normal386",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_cloth50",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 467
+	},
+	{
+		"vid_name": "normal138",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 242
+	},
+	{
+		"vid_name": "punching_wall32",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_arm200",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 519
+	},
+	{
+		"vid_name": "hittinghead_floor5",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_neck9",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal445",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal129",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal794",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal308",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "choking_cloth154",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 496
+	},
+	{
+		"vid_name": "biting107",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 530
+	},
+	{
+		"vid_name": "normal345",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "scratching_arm2",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal716",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 219
+	},
+	{
+		"vid_name": "scratching_arm161",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "hittingbody57",
+		"label": 4,
+		"start_frame": 0,
+		"end_frame": 460
+	},
+	{
+		"vid_name": "normal246",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand43",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal492",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "scratching_neck75",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "kicking_wall4",
+		"label": 7,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "hittinghead_floor129",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_hand132",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "biting95",
+		"label": 1,
+		"start_frame": 0,
+		"end_frame": 578
+	},
+	{
+		"vid_name": "scratching_neck41",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 555
+	},
+	{
+		"vid_name": "normal285",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 190
+	},
+	{
+		"vid_name": "normal610",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "choking_cloth118",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 512
+	},
+	{
+		"vid_name": "punching_wall74",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 480
+	},
+	{
+		"vid_name": "normal199",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 260
+	},
+	{
+		"vid_name": "punching_wall101",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal353",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "scratching_arm183",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 463
+	},
+	{
+		"vid_name": "scratching_neck52",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 572
+	},
+	{
+		"vid_name": "choking_hand25",
+		"label": 3,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "normal39",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal493",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 568
+	},
+	{
+		"vid_name": "scratching_neck63",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 478
+	},
+	{
+		"vid_name": "hittinghead_wall72",
+		"label": 6,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "normal922",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_wall13",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 451
+	},
+	{
+		"vid_name": "normal806",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "choking_cloth47",
+		"label": 2,
+		"start_frame": 0,
+		"end_frame": 467
+	},
+	{
+		"vid_name": "normal873",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal919",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "punching_wall70",
+		"label": 9,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "punching_floor51",
+		"label": 8,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal923",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 468
+	},
+	{
+		"vid_name": "hittinghead_floor3",
+		"label": 5,
+		"start_frame": 0,
+		"end_frame": 449
+	},
+	{
+		"vid_name": "scratching_arm149",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "scratching_arm157",
+		"label": 10,
+		"start_frame": 0,
+		"end_frame": 479
+	},
+	{
+		"vid_name": "scratching_neck43",
+		"label": 11,
+		"start_frame": 0,
+		"end_frame": 450
+	},
+	{
+		"vid_name": "normal791",
+		"label": 0,
+		"start_frame": 0,
+		"end_frame": 450
+	}
+]

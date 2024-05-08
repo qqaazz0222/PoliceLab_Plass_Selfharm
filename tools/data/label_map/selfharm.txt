@@ -1,0 +1,13 @@
+normal
+biting
+choking_cloth
+choking_hand
+hittingbody
+hittinghead_floor
+hittinghead_wall
+kicking_wall
+punching_floor
+punching_wall
+scratching_arm
+scratching_neck
+selfharm_tool

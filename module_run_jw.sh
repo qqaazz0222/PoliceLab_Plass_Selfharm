@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 python demo/demo_selfharm_jw.py
