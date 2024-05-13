@@ -7,13 +7,7 @@ import sys
 from os.path import exists
 
 
-def readme():
-    with open('README.md', encoding='utf-8') as f:
-        content = f.read()
-    return content
-
-
-version_file = 'pyskl/version.py'
+version_file = 'mmengine/version.py'
 
 
 def get_version():
@@ -100,11 +94,9 @@ def parse_requirements(fname='requirements.txt', with_version=True):
 
 if __name__ == '__main__':
     setup(
-        name='pyskl',
+        name='mmengine',
         version=get_version(),
         description='A Toolbox for skeleton-based action recognition',
-        long_description=readme(),
-        long_description_content_type='text/markdown',
         author='Haodong Duan',
         author_email='dhd.efz@gmail.com',
         maintainer='Haodong Duan',

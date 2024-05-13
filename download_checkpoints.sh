@@ -1,3 +1,0 @@
-wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EblcEBmVyhpBp88RwcxGIoQBDVXdmfeyCU06Du7e79muCQ?e=jP0YVK&download=1" -O configs/posec3d/slowonly_r50_selfharm/best.pth
-wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EYDBvXKs4_JOogMYEgEgjmsBk3zL_n8KqQeCFbLFpIzveg?e=Qybvqg&download=1" -O data/pretrain/human_pose_checkpoint.pth
-wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EYZ6d-s6sDBAjS03amyczwQBJVS00dUayF5omzwYF7i-Nw?e=sgq0sz&download=1" -O data/pretrain/human_detect_checkpoint.pth
