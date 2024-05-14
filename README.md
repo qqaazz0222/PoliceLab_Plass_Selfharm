@@ -47,3 +47,12 @@ Link : [Download](https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dg
 ```
 wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EZypUOJgyl5MnlnaBm0B5WMBMmmf-5hhh4-8xmOJ-vgJAQ?e=2Fl0MU&download=1" -O PLASS/model/human_detect_tracker_checkpoint.pt
 ```
+
+### Download All
+
+```
+wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EepW2QK6ygJMpTSpk7zsiXoBo3NSq4KibNp-tAgOsCNRDA?e=EqOkKb&download=1" -O PLASS/model/selfharm_pose_checkpoint_best.pth
+wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EaKk7gy9dq5AgyaBNK7gVcYByDjnz2mK7eQ0wyrPYdstug?e=1latwR&download=1" -O PLASS/model/human_pose_checkpoint.pth
+wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/Ebk9j6XmHZNKkjTB95HXLOgBK856p99nlb2jMOeuKkeUYg?e=H3znvQ&download=1" -O PLASS/model/human_detect_checkpoint.pth
+wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EZypUOJgyl5MnlnaBm0B5WMBMmmf-5hhh4-8xmOJ-vgJAQ?e=2Fl0MU&download=1" -O PLASS/model/human_detect_tracker_checkpoint.pt
+```
