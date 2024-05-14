@@ -2,14 +2,31 @@
 
 ## Installation
 
+### 1. Creating Docker Environment from Docker File
 ```
 git clone https://github.com/qqaazz0222/PoliceLab_Plass_Selfharm.git
 cd PoliceLab_Plass_Selfharm
-conda env create -f pyskl.yaml
-conda activate pyskl
-pip install -e .
+docker build --tag plass-module:1.0 .
+docker run --gpus all -it --name plass-selfharm plass-module:1.0
 ```
 
+### 2. Add Database Information
+Target: ./dbConnector.py
+
+> Change Here!
+
+```
+host = "" #input host address
+port = 3306 #change port(optinal)
+user = "" #input database user
+password = "" #input database password
+charset = "utf8" #change charset(optinal)
+```
+### 3. Run Module
+```
+cd PLASS
+python selfharm.py
+```
 ## Donwload Checkpoint Files
 
 ### Selfharm Detect Checkpoint
