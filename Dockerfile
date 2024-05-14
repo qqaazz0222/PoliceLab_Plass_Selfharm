@@ -21,6 +21,9 @@ RUN git clone https://github.com/qqaazz0222/PoliceLab_Plass_Selfharm
 RUN mv ./PoliceLab_Plass_Selfharm/* ./
 RUN rm -rf ./PoliceLab_Plass_Selfharm/
 
+# Install Library
+RUN pip install -r ./PLASS/requirements.txt
+
 # Install BoTSORT
 RUN git clone https://github.com/qqaazz0222/PoliceLab_Plass_BoTSORT
 
@@ -28,7 +31,6 @@ RUN git clone https://github.com/qqaazz0222/PoliceLab_Plass_BoTSORT
 RUN mv ./PoliceLab_Plass_BoTSORT ./BoTSORT
 
 # Install Library
-RUN pip install -r ./PLASS/requirements.txt
 RUN pip install -r ./BoTSORT/requirements.txt
 
 # Download Weight Filse (Selfharm)
