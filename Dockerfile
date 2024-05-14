@@ -12,8 +12,7 @@ WORKDIR /SelfharmDetetion_PLASS
 
 # Install Package
 RUN apt update && apt install -y git vim libgl1-mesa-glx
-RUN apt-get install wget
-RUN apt-get install libglib2.0-0
+RUN apt-get install -y wget libglib2.0-0
 
 # Install Selfharm Project
 RUN git clone https://github.com/qqaazz0222/PoliceLab_Plass_Selfharm
