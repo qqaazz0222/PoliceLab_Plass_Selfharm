@@ -51,8 +51,8 @@ except (ImportError, ModuleNotFoundError):
         'Failed to import `init_pose_model`, `inference_top_down_pose_model`, `vis_pose_result` from '
         '`mmpose.apis`. Make sure you can successfully import these if you want to use related features. '
     )
-sys.path.insert(0, '/SelfharmDetetion_PLASS/BoTSORT/yolov7')
-sys.path.append('/SelfharmDetetion_PLASS/')
+sys.path.insert(0, '../BoTSORT/yolov7')
+sys.path.append('../')
 
 
 CCTV_ID = 101

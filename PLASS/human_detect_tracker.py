@@ -23,7 +23,7 @@ import torch
 import torch.backends.cudnn as cudnn
 from pytz import timezone
 
-sys.path.insert(0, '/selfharm_PLASS/BoTSORT/yolov7')
+sys.path.insert(0, '../BoTSORT/yolov7')
 
 TIME_ZONE = timezone('Asia/Seoul')
 conn = getConnection("mysql-pls")
