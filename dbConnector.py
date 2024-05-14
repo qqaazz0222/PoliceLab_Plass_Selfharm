@@ -1,10 +1,10 @@
 import pymysql
 
-host = "172.30.1.46"
-port = 3306
-user = "root"
-password = "mhncity@364"
-charset = "utf8"
+host = "" #input host address
+port = 3306 #change port(optinal)
+user = "" #input database user
+password = "" #input database password
+charset = "utf8" #change charset(optinal)
 
 def getConnection(dbName):
     conn = pymysql.connect(host=host,

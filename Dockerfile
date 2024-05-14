@@ -30,7 +30,6 @@ RUN mv ./PoliceLab_Plass_BoTSORT ./BoTSORT
 RUN pip install -r ./PLASS/requirements.txt
 RUN pip install -r ./BoTSORT/requirements.txt
 
-
 # Download Weight Filse
 RUN wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EepW2QK6ygJMpTSpk7zsiXoBo3NSq4KibNp-tAgOsCNRDA?e=EqOkKb&download=1" -O PLASS/model/selfharm_pose_checkpoint_best.pth
 RUN wget "https://dguackr-my.sharepoint.com/:u:/g/personal/qqaazz0222_dgu_ac_kr/EaKk7gy9dq5AgyaBNK7gVcYByDjnz2mK7eQ0wyrPYdstug?e=1latwR&download=1" -O PLASS/model/human_pose_checkpoint.pth
