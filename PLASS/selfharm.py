@@ -9,6 +9,8 @@ import os.path as osp
 import openpyxl
 import shutil
 import sys
+sys.path.insert(0, '../BoTSORT/yolov7')
+sys.path.append('../')
 import torch
 import torch.multiprocessing as mp
 import warnings
@@ -51,9 +53,6 @@ except (ImportError, ModuleNotFoundError):
         'Failed to import `init_pose_model`, `inference_top_down_pose_model`, `vis_pose_result` from '
         '`mmpose.apis`. Make sure you can successfully import these if you want to use related features. '
     )
-sys.path.insert(0, '../BoTSORT/yolov7')
-sys.path.append('../')
-
 
 CCTV_ID = 101
 CCTV_NAME = ''

@@ -9,7 +9,6 @@ import datetime
 import sys
 import multiprocessing
 from datetime import timedelta
-from dbConnector import getConnection
 import copy
 from BoTSORT.yolov7.utils.general import check_img_size, check_requirements, check_imshow, non_max_suppression, \
     apply_classifier, \
@@ -26,7 +25,6 @@ from pytz import timezone
 sys.path.insert(0, '../BoTSORT/yolov7')
 
 TIME_ZONE = timezone('Asia/Seoul')
-conn = getConnection("mysql-pls")
 cctv = {}  # cctv 설정값 저장할 변수
     
 def create_folder(path):
